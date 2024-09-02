@@ -1,0 +1,45 @@
+.fundo {
+    background-image: url("https://i.pinimg.com/originals/a8/04/1e/a8041e4a95dd786b38a9eebcffc086ec.jpg");
+    height: 950px; 
+}
+
+.base {
+    margin-left: 20%;
+    font-size: 30;
+    margin-top: 20%;
+}
+
+.altura {
+    margin-left: 50%;
+    font-size: 30;
+    margin-left: 20%;
+}
+
+.enviar {
+    margin-left: 20%;
+}
+
+.fbase {
+    background-color: darkgray;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 50%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#base {
+    width: 300px;
+}
+
+#altura {
+    width: 300px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-block: 9%;
+    
+}
